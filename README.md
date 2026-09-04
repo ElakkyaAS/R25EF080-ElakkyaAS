@@ -6,3 +6,7 @@ I am currently learning Java, an object‑oriented programming language that I f
 Currently, I am interested in artificial intelligence, a field on which the future greatly depends.
 
 Goal: Contribute to open source projects and grow as a developer.
+
+## Projects
+I plan to develop a portfolio website using GitHub Pages to showcase my learning journey and future projects.
+
